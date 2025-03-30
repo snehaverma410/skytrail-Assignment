@@ -34,7 +34,4 @@ The blog features beautiful images from various destinations:
 - Tailwind CSS
 - shadcn/ui components
 
-## License
-
-This project is licensed under the MIT License.
 
